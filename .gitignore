@@ -1,3 +1,5 @@
 .idea
-.my_env
+.venv
 .gradio
+flagged
+my_env

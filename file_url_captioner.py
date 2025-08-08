@@ -5,7 +5,6 @@ from PIL import Image
 from io import BytesIO
 from bs4 import BeautifulSoup, ResultSet, PageElement
 from transformers import AutoProcessor, BlipForConditionalGeneration
-import sys
 
 processor = AutoProcessor.from_pretrained("Salesforce/blip-image-captioning-base")
 model: BlipForConditionalGeneration = BlipForConditionalGeneration.from_pretrained("Salesforce/blip-image-captioning-base")
