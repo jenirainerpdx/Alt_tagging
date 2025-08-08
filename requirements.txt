@@ -1,0 +1,5 @@
+pillow
+bs4==0.0.2
+requests==2.32.4
+io
+transformers==4.55.0
