@@ -9,7 +9,6 @@ At this point, the app takes in a url and, very slowly, iterates through all img
 
 Build the image:
 
-- docker build -t url_captioner .
 
 Run the container (port 8000):
 
