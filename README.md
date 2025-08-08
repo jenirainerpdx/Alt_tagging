@@ -9,8 +9,8 @@ At this point, the app takes in a url and, very slowly, iterates through all img
 
 Build the image:
 
-- docker build -t url_captioner .
+`docker build -t url_captioner .`
 
 Run the container (port 8000):
 
-- docker run --rm -p 8000:8000 --name url_captioner url_captioner
+`- docker run --rm -p 8000:8000 --name url_captioner url_captioner`
