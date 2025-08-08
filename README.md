@@ -11,5 +11,3 @@ Build the image:
 
 
 Run the container (port 8000):
-
-- docker run --rm -p 8000:8000 --name url_captioner url_captioner
