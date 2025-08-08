@@ -4,3 +4,4 @@ bs4==0.0.2
 requests==2.32.4
 transformers==4.55.0
 torch
+gradio==4.44.1
